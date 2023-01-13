@@ -18,4 +18,4 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rpdevelops&&count_private=true&card_width=50&hide_border=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rpdevelopst&hide=html&exclude_repo=python_vim&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rpdevelops&hide=html&exclude_repo=python_vim&hide_border=true&theme=radical)
