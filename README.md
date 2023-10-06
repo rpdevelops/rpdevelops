@@ -1,6 +1,5 @@
 - <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I’m Robson Paradella Rocha</h1>
-- 🔥 FullStack Developer and BI Analyst.
-- 📖Currently learning Angular and Java APIs with SpringBoot🚀
+- 🔥 FullStack Software Engineer and Data Engineer.
 
 - 📫 How to reach me: <br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonparadellarocha/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paradellarobson@gmail.com)
